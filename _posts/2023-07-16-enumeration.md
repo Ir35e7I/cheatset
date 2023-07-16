@@ -16,4 +16,7 @@ Enumeracion de servicios y scripts basicos de nmap.
 ```bash
 nmap -sCV -pPUERTOS -Pn -n -oN target **targetip**
 ```
+```bash
+whatweb **targetip**
+```
 {{Esto es un comentario}}
